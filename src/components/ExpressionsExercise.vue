@@ -9,7 +9,7 @@
             below:
           </p>
 
-          <p>{{}}</p>
+          <p>{{ 2 + 2 }}</p>
         </div>
         <div class="border p-1">
           <p>
